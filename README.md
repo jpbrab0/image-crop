@@ -22,4 +22,6 @@ Ele possibilita cortar imagens e baixa-las em seu computador.
 
 * CanvasAPI
 
+[Clique aqui para ver o projeto em tempo real!](https://image-crop.jpbrab0.vercel.app)
+
 **Feito por [João Pedro Resende](https://jpres.dev)**
